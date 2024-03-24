@@ -19,11 +19,13 @@ To write a program to find the square root of a number.
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: 
-RegisterNumber:  
+RegisterNumber:  212223110049
 */
 ```
 
 ## Output:
+
+![image](https://github.com/Sharonsteffani2005/Square-root-of-a-number/assets/144979934/adfcc06b-3045-4e74-a820-f3a5c0110d4c)
 
 
 
